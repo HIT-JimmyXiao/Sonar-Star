@@ -251,4 +251,4 @@ python run.py --mode multi --test_audio ./data/ASDchild2.wav --skip_training --s
 如有任何问题或建议，请通过以下方式联系我们：
 
 - 电子邮件：xiao.jm44@qq.com
-- GitHub Issues: https://github.com/HIT-JimmyXiao/Sonar-Star
+- GitHub Issues: https://github.com/HIT-JimmyXiao/Sonar-Star/issues
